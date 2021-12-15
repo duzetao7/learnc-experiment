@@ -24,6 +24,7 @@
     <ProjectGuid>{ad6b2682-8452-4504-bbfd-2bc0a5f5a2e2}</ProjectGuid>
     <RootNamespace>My1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>2experiment</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,8 +140,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="实验三利润.cpp" />
+    <ClCompile Include="实验三利润2.cpp" />
+    <ClCompile Include="实验三多个比大小.cpp" />
+    <ClCompile Include="实验二.cpp" />
+    <ClCompile Include="实验二三角形.cpp" />
     <ClCompile Include="实验五4杨辉三角.cpp" />
     <ClCompile Include="实验五3排序.cpp" />
+    <ClCompile Include="实验四1水仙花数.cpp" />
+    <ClCompile Include="实验四2数字符.cpp" />
+    <ClCompile Include="实验四3钻石.cpp" />
+    <ClCompile Include="实验四4修改.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
