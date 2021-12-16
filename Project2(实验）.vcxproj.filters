@@ -48,5 +48,17 @@
     <ClCompile Include="实验四4修改.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="实验五1数组测试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="实验五2二维数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="实验六1调试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="实验六2矩阵的转置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
