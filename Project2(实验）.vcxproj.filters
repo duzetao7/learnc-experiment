@@ -60,5 +60,8 @@
     <ClCompile Include="实验六2矩阵的转置.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="实验六3_n的阶乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
