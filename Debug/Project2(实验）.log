@@ -1,2 +1,1 @@
-﻿  实验三多个比大小.cpp
-  Project2(实验）.vcxproj -> D:\编程\Code\Code.u\U1A\v\1\Debug\Project2(实验）.exe
+﻿D:\Programming\VisualStudio2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project2(实验）.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
