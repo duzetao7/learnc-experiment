@@ -38,7 +38,7 @@ home:
 
     //0.2__密码输入
     gotoxy(49, 10);
-    char Password[6] = { 0 };
+    char Password[7] = { 0 };
     int x = 0;
     char c = 0;
     static int fault = 0;
@@ -63,7 +63,7 @@ home:
             
     }
 
-    if (strcmp(Password, "123123") == 1)
+    if (strcmp(Password, "123123") == 0)//strcmp比较的两个字符串若相等则返回0，小于返回负数，大于返回正数
     {
         gotoxy(45, 11);
         printf("登录成功,请稍候");
